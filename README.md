@@ -1,4 +1,4 @@
-# Text-from-image_-OCR-
+# FAST COPY Text-from-image_OCR
 
 This was written just for my convenience but use it how you may like this is basically a script/program that can copy text directly from an image without changing the format of the image thus treating all the text in the image like a single block
 
